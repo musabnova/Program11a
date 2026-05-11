@@ -1,1 +1,1 @@
-output:11a.jpeg
+output:https://github.com/musabnova/Program11a/blob/master/11a.jpeg
